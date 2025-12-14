@@ -1,0 +1,11 @@
+model_path: /apdcephfs_jn02/share_302243908/zixiangzhou/experiments/VideoChat/E2E_MoT/V5/exp17-joint-generation-wan22-V8-continue-all_mask_noloss/2025.10.22-19.48.17/checkpoint-1000/unet
+audio_guidance_scale: 2.0   
+video_guidance_scale: 3.0   
+output_dir: ./outputs/demo
+num_steps: 50
+shift: 5.0
+seed: 2025
+video_negative_prompt: ""  
+test_csv: examples/csvs/test_task_AVG.csv
+slg_layer: 11        # skip layer guidance, default = 11
+macfg_prop: 0.5       # proportion of timesteps using MA-CFG, default = 0.5

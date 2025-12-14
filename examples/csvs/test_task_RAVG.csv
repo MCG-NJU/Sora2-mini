@@ -1,0 +1,2 @@
+data_id,ref_image_path,ref_audio_path,ref_speech_content,video_path,audio_path,speech_content,prompt,lang
+1,examples/datas/example_ravg.png,examples/datas/example_ravg.wav,"Selected forms are propagated.",,,"Today is an special day for me, and I want to say something in a male voice.", A woman is smiling and talking with her hands moving in a rhythmic sway.,en

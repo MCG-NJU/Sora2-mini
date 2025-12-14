@@ -1,0 +1,2 @@
+data_id,ref_image_path,ref_audio_path,ref_speech_content,video_path,audio_path,speech_content,prompt,lang
+0,examples/datas/example_avg.png,,,,,"Over the past week, it has been raining nonstop, but the sun’s finally breaking through today!", A woman is talking with her hands moving in a rhythmic sway.,en

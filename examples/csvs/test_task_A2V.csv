@@ -1,0 +1,2 @@
+data_id,ref_image_path,ref_audio_path,ref_speech_content,video_path,audio_path,speech_content,prompt,lang
+2,examples/datas/example_a2v.png,,,,examples/datas/example_a2v.wav,"personally really like to share this kind of video. So I hope to do more of these, but let me know if","A woman was explaining something enthusiastically, using hand gestures to convey her emotions.",en

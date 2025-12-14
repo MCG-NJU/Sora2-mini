@@ -1,0 +1,17 @@
+numpy==0.61.2
+einops==0.8.1
+opencv-python==4.11.0.86
+decord==0.6.0
+librosa==0.11.0
+pandas==2.2.3
+jieba==0.42.1
+pypinyin==0.54.0
+moviepy==1.0.3
+scipy==1.15.2
+easydict==1.13
+diffusers==0.36.0
+ftfy==6.3.1
+transformers==4.57.3
+regex==2024.11.6
+omegaconf==2.3.0
+safetensors==0.5.3

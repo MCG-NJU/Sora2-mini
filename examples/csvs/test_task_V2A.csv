@@ -1,0 +1,2 @@
+data_id,ref_image_path,ref_audio_path,ref_speech_content,video_path,audio_path,speech_content,prompt,lang
+3,examples/datas/example_v2a.png,,,examples/datas/example_v2a.mp4,,"You won't be a great storyteller immediately after watching this video, but I think that once you start thinking","A man stared straight ahead, speaking kind words.",en
