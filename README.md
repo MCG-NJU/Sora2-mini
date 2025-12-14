@@ -39,7 +39,7 @@ At its core, UniAVGen adopts a symmetric dual-branch architecture (parallel Diff
 
 
 - **2025-12-14**: Released the inference code and [weights](https://huggingface.co/MCG-NJU/UniAVGen) of UniAVGen.
-- **2025-11-5**: Our paper is in public on [arxiv](https://arxiv.org/pdf/2511.03334).
+- **2025-11-05**: Our paper is in public on [arxiv](https://arxiv.org/pdf/2511.03334).
 
 
 ## 💕 Installation
