@@ -1,4 +1,4 @@
-model_path: /apdcephfs_jn02/share_302243908/zixiangzhou/experiments/VideoChat/E2E_MoT/V5/exp17-joint-generation-wan22-V8-continue-all_mask_noloss/2025.10.22-19.48.17/checkpoint-1000/unet
+model_path: UniAVGen
 audio_guidance_scale: 2.0   
 video_guidance_scale: 3.0   
 output_dir: ./outputs/demo
