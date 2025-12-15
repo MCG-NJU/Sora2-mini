@@ -1,5 +1,5 @@
 # Sora2-mini 
-This project is a long-term open-source project aimed at implementing the full functionality similar to [Sora2](https://openai.com/zh-Hans-CN/index/sora-2/), and it will include the code and implementations of multiple works.
+This project is a long-term open-source project aimed at implementing the full functionality similar to [Sora2](https://openai.com/zh-Hans-CN/index/sora-2/), and it will include the implementations of multiple works.
 
 Open List:
 - Joint audio-video generation (UniAVGen)
