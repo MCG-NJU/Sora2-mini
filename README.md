@@ -1,3 +1,10 @@
+# Sora2-mini 
+This project is a long-term open-source project aimed at implementing the full functionality similar to [Sora2](https://openai.com/zh-Hans-CN/index/sora-2/), and it will include the code and implementations of multiple works.
+
+Open List:
+- Joint audio-visual generation (UniAVGen)
+---
+
 <p align="center">
 
   <h2 align="center">UniAVGen: Unified Audio and Video Generation with <br> Asymmetric Cross-Modal Interactions</h2>
@@ -39,13 +46,13 @@ At its core, UniAVGen adopts a symmetric dual-branch architecture (parallel Diff
 
 
 - **2025-12-14**: Released the inference code and [weights](https://huggingface.co/MCG-NJU/UniAVGen) of UniAVGen.
-- **2025-11-05**: Our paper is in public on [arxiv](https://arxiv.org/pdf/2511.03334).
+- **2025-11-5**: Our paper is in public on [arxiv](https://arxiv.org/pdf/2511.03334).
 
 
 ## 💕 Installation
 ```
-git clone https://github.com/MCG-NJU/UniAVGen.git
-cd UniAVGen
+git clone https://github.com/MCG-NJU/Sora2-mini.git
+cd Sora2-mini
 
 conda create -n uniavgen python=3.10 -y
 conda activate uniavgen
