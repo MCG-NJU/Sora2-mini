@@ -21,7 +21,7 @@ Open List:
     <br>
     <a href="https://scholar.google.com/citations?user=dmdhJjgAAAAJ&hl=zh-CN"><strong>Yi Chen</strong></a>
     ·
-    <a href="https://openreview.net/profile?id=~Yuan_Zhou12"><strong>Yuan Zhou</strong></a>
+    <a href="https://scholar.google.com/citations?user=tSDTmxAAAAAJ&hl=zh-CN"><strong>Yuan Zhou</strong></a>
     ·
     <a href="https://openreview.net/profile?id=~Qinglin_Lu2"><strong>Qinglin Lu</strong></a>
     ·
